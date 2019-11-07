@@ -8,8 +8,9 @@
 </p>
 
 ## How to Setup a Laravel Project You Cloned from Github.com
-Dont forget to install Git Bash, Node.js and Composer first. ->
+
 [https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
+P.S: Dont forget to install Git Bash, Node.js and Composer first.
 
 ## Database
 Import or copy this file ->
