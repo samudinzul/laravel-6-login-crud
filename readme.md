@@ -11,7 +11,7 @@
 [https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
 
 ## Database
-<p>Import or copy this file</p>
+Import or copy this file
 [https://github.com/samudinzul/laravel-6-login-crud/blob/master/laravel-6-login-crud.sql](https://github.com/samudinzul/laravel-6-login-crud/blob/master/laravel-6-login-crud.sql)
 
 ## ScreenShots
