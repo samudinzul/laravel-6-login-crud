@@ -13,3 +13,7 @@
 ![Capture3](https://user-images.githubusercontent.com/43567740/68380074-1ce36280-018a-11ea-9596-1b9ca22b3c43.JPG)
 ![Capture2](https://user-images.githubusercontent.com/43567740/68380075-1ce36280-018a-11ea-95cf-cd7d4bab95b5.JPG)
 ![Capture4](https://user-images.githubusercontent.com/43567740/68380077-1ce36280-018a-11ea-8048-f5930c8c6537.JPG)
+
+## How to Setup a Laravel Project You Cloned from Github.com
+[https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
+
