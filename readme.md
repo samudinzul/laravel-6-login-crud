@@ -10,6 +10,10 @@
 ## How to Setup a Laravel Project You Cloned from Github.com
 [https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
 
+## Database
+<p>Import or copy this file</p>
+[https://github.com/samudinzul/laravel-6-login-crud/blob/master/laravel-6-login-crud.sql](https://github.com/samudinzul/laravel-6-login-crud/blob/master/laravel-6-login-crud.sql)
+
 ## ScreenShots
 ![Capture](https://user-images.githubusercontent.com/43567740/68379934-d3931300-0189-11ea-8fdd-adc3f68fbcd3.JPG)
 ![Capture1](https://user-images.githubusercontent.com/43567740/68380073-1c4acc00-018a-11ea-9869-460956ec42b1.JPG)
