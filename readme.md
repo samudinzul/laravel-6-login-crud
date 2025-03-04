@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.svgrepo.com/svg/303379/laravel-logo/show/303379/laravel-logo.svg" width="400"></p>
+<p align="center"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/170px-Laravel.svg.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
